@@ -5,7 +5,7 @@
 
 | MRI Safe Robotics |   |
 | ------------- | ------------- |
-| Image  | I participated in the researc and development of brain stimulating robotics. This research mainly focused on deliverables relating to a non magnetic 7-axis robot arm  |
+| Image  | I participated in the research and development of brain stimulating robotics. This research mainly focused on deliverables relating to a non magnetic 7-axis robot arm  |
 
 
 
