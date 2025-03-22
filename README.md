@@ -1,5 +1,13 @@
 # <ins>Academic Research</ins>
 ### Biomimetic Millisystems Laboratory
+
+| Biomimetic Millisystems Laboratory |
+| ------------- | ------------- |
+| Image  | Description  |
+
+
+
+
 ### Additive Manufacturing and Meta Materials Laboratory
 
 # <ins>Extracurriculars</ins>
