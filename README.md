@@ -1,6 +1,6 @@
 # <ins>Academic Research</ins>
 ---
-#### Biomimetic Millisystems Laboratory
+#### _Biomimetic Millisystems Laboratory_
 
 | MRI Safe Robotics |   |
 | ------------- | ------------- |
@@ -9,7 +9,7 @@
 
 
 
-#### Additive Manufacturing and Meta Materials Laboratory
+#### _Additive Manufacturing and Meta Materials Laboratory_
 
 | Controlling the Patterns of 3D Printing |                                    |
 | ------------- | ------------- |
@@ -20,7 +20,7 @@
 
 # <ins>Extracurriculars</ins>
 ---
-#### __STAR_
+#### _STAR_
 ### HOPE
 ### TPREP
 
