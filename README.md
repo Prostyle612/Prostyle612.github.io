@@ -2,7 +2,7 @@
 ---
 #### Biomimetic Millisystems Laboratory
 
-| MRI Safe Robot Arm |   |
+| MRI Safe Robotics |   |
 | ------------- | ------------- |
 | Image  | Description  |
 
@@ -11,9 +11,9 @@
 
 #### Additive Manufacturing and Meta Materials Laboratory
 
-| Propagation of Crystal Seed Growth |                                    |
+| Controlling the Patterns of 3D Printing |                                    |
 | ------------- | ------------- |
-| Image  | Description  |
+| Image  | Propagation of Crystal Seed Growth  |
 
 
 
