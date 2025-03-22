@@ -1,2 +1,3 @@
-# Research 
-# Projects
+# Academic Research
+# Extracurriculars
+# Engineering Projects
