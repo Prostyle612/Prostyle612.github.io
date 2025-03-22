@@ -12,7 +12,7 @@
 
 #### _Additive Manufacturing and Meta Materials Laboratory_
 
-| Controlling the Patterns of 3D Printing |                                    |
+| Controlling the Patterns of Resin 3D Printing |                                    |
 | ------------- | ------------- |
 | Image  | Propagation of Crystal Seed Growth  |
 
