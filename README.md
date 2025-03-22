@@ -1,7 +1,7 @@
 # <ins>Academic Research</ins>
 ### Biomimetic Millisystems Laboratory
 
-| Biomimetic Millisystems Laboratory |
+| MRI Safe Robot Arm |
 | ------------- | ------------- |
 | Image  | Description  |
 
@@ -10,7 +10,7 @@
 
 ### Additive Manufacturing and Meta Materials Laboratory
 
-| Additive Manufacturing and Meta Materials Laboratory |
+| Propagation of Crystal Seed Growth |
 | ------------- | ------------- |
 | Image  | Description  |
 
