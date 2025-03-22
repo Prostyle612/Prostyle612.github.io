@@ -21,14 +21,14 @@
 # <ins>Extracurriculars</ins>
 ---
 #### _STAR_
-### HOPE
-### TPREP
+### _HOPE_
+### _TPREP_
 
 # <ins>Engineering Projects</ins>
 ---
-### Lyra - 6 Axis Robot Arm
-### LITS - 6 Axis Force Torque Sensor
-### Custom Laminated Composite for Pressurized COPV
-### KIWI Bot - Omnidirectional Drone
-### Wind Turbine
+### _Lyra - 6 Axis Robot Arm_
+### _LITS - 6 Axis Force Torque Sensor_
+### _Custom Laminated Composite for Pressurized COPV_
+### _KIWI Bot - Omnidirectional Drone_
+### _Wind Turbine_
 
