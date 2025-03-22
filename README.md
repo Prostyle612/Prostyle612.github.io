@@ -1,4 +1,4 @@
-# David S. Gonzalez
+
 # <ins>Academic Research</ins>
 ---
 #### _Biomimetic Millisystems Laboratory_
@@ -12,8 +12,8 @@
 
 #### _Additive Manufacturing and Meta Materials Laboratory_
 
-| Controlling the Patterns of Resin 3D Printing |                                    |
-| ------------- | ------------- |
+| Controlling the Patterns of Resin 3D Printing |
+| :-------------: | ------------- |
 | Image  | Propagation of Crystal Seed Growth  |
 
 
