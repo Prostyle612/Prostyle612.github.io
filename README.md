@@ -1,4 +1,4 @@
-# Welcome to 
+# David S. Gonzalez
 # <ins>Academic Research</ins>
 ---
 #### _Biomimetic Millisystems Laboratory_
