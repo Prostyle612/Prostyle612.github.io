@@ -11,7 +11,7 @@
 
 ### Additive Manufacturing and Meta Materials Laboratory
 
-| Propagation of Crystal Seed Growth |   |
+| Propagation of Crystal Seed Growth |                                    |
 | ------------- | ------------- |
 | Image  | Description  |
 
