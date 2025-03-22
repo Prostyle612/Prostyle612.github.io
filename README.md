@@ -20,7 +20,7 @@
 
 # <ins>Extracurriculars</ins>
 ---
-#### __STAR__
+#### __STAR_
 ### HOPE
 ### TPREP
 
