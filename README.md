@@ -1,3 +1,4 @@
+# Welcome to 
 # <ins>Academic Research</ins>
 ---
 #### _Biomimetic Millisystems Laboratory_
@@ -21,6 +22,7 @@
 # <ins>Extracurriculars</ins>
 ---
 #### _STAR_
+#### _SEB_ 
 ### _HOPE_
 ### _TPREP_
 
