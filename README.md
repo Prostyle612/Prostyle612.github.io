@@ -23,14 +23,14 @@
 ---
 #### _STAR_
 #### _SEB_ 
-### _HOPE_
-### _TPREP_
+#### _HOPE_
+#### _TPREP_
 
 # <ins>Engineering Projects</ins>
 ---
-### _Lyra - 6 Axis Robot Arm_
-### _LITS - 6 Axis Force Torque Sensor_
-### _Custom Laminated Composite for Pressurized COPV_
-### _KIWI Bot - Omnidirectional Drone_
-### _Wind Turbine_
+#### _Lyra - 6 Axis Robot Arm_
+#### _LITS - 6 Axis Force Torque Sensor_
+#### _Custom Laminated Composite for Pressurized COPV_
+#### _KIWI Bot - Omnidirectional Drone_
+#### _Wind Turbine_
 
