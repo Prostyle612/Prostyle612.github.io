@@ -1,8 +1,8 @@
-# **Academic Research**
+# <ins>Academic Research</ins>
 ### Biomimetic Millisystems Laboratory
 ### Additive Manufacturing and Meta Materials Laboratory
 
-# **Extracurriculars**
+# <ins>Extracurriculars</ins>
 ### STAR 
 ### HOPE
 ### TPREP
