@@ -29,6 +29,13 @@
 # <ins>Engineering Projects</ins>
 ---
 #### _Lyra - 6 Axis Robot Arm_
+
+| LYRA |
+| ------------- | ------------- |
+| Image  | LYRA is a meter-long 7-axis robot arm with an interchangeable toolhead system for multiuse capabilities |
+
+
+
 #### _LITS - 6 Axis Force Torque Sensor_
 #### _Custom Laminated Composite for Pressurized COPV_
 #### _KIWI Bot - Omnidirectional Drone_
