@@ -30,7 +30,7 @@
 ---
 #### _Lyra - 6 Axis Robot Arm_
 
-| LYRA |
+| Lyra - 6 axis Robot Arm |
 | ------------- | ------------- |
 | Image  | LYRA is a meter-long 7-axis robot arm with an interchangeable toolhead system for multiuse capabilities |
 
