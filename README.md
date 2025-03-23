@@ -61,7 +61,7 @@
 #### _Wind Turbine_
 
 
-![alt text](https://github.com/Prostyle612/Prostyle612.github.io/blob/main/Kiwibot.jpg?raw=true)
+![alt text](https://github.com/Prostyle612/Prostyle612.github.io/blob/Images/Kiwibot.jpg?raw=true)
 
 
 
