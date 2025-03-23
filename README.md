@@ -37,7 +37,32 @@
 
 
 #### _LITS - 6 Axis Force Torque Sensor_
+
+| LITS|
+| ------------- | ------------- |
+| Image  | LYRA is a meter-long 7-axis robot arm with an interchangeable toolhead system for multiuse capabilities |
+
+
+
 #### _Custom Laminated Composite for Pressurized COPV_
+
+| Custom Composite |
+| ------------- | ------------- |
+| Image  | LYRA is a meter-long 7-axis robot arm with an interchangeable toolhead system for multiuse capabilities |
+
+
 #### _KIWI Bot - Omnidirectional Drone_
+
+| KIWI Bot |
+| ------------- | ------------- |
+| Image  | LYRA is a meter-long 7-axis robot arm with an interchangeable toolhead system for multiuse capabilities |
+
+
 #### _Wind Turbine_
+
+
+
+
+
+
 
