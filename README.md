@@ -54,9 +54,9 @@
 #### _KIWI Bot - Omnidirectional Drone_
 
 | KIWI Bot - Omnidirectional Drone | 
-| :-------------: | 
+| :-----: | 
 | ![screenshot](Images/KiwiCAD.jpg)  LYRA is a meter-long 7-axis robot arm with an interchangeable toolhead system for multiuse capabilities | 
-| :-------------: |
+
 
 
 #### _Wind Turbine_
