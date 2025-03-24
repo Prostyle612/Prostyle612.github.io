@@ -55,16 +55,14 @@
 
 | |  KIWI Bot - Omnidirectional Drone |
 | ------------- | :-------------: |
-| ![screenshot](Images/Kiwibot.jpg)  | LYRA is a meter-long 7-axis robot arm with an interchangeable toolhead system for multiuse capabilities |
+| ![screenshot](Images/KiwiCAD.jpg)  | LYRA is a meter-long 7-axis robot arm with an interchangeable toolhead system for multiuse capabilities |
 
 
 #### _Wind Turbine_
 
+| | Wind Turbine |
+| ------------- | :-------------: |
+| ![screenshot](Images/Windturbine.jpg)  | LYRA is a meter-long 7-axis robot arm with an interchangeable toolhead system for multiuse capabilities |
 
-![alt text](https://github.com/Prostyle612/Prostyle612.github.io/blob/Images/Kiwibot.jpg?raw=true)
 
-
-![screenshot](Images/Kiwibot.jpg)
-
-https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true
 
