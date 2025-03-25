@@ -142,5 +142,6 @@ ul.main-menu li a.active {
 
 .border {
   font-size: 1.5rem;
+  text-align: center;
   border: white 2px double;
 }
