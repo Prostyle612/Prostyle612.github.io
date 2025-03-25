@@ -102,6 +102,11 @@ body {
 }
 header, #content, footer { 
   background: rgba(0,0,0,.8); 
+  display: flex;
+  flex-direction: column; /* Stack items vertically */
+  justify-content: center; /* Center items vertically */
+  align-items: center; /* Center items horizontally */
+  text-align: center; /* Ensure text is centered */
   padding:25px;
   color:#FFFFFF; 
 }
