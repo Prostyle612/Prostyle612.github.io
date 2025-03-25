@@ -139,3 +139,11 @@ ul.main-menu li a.active {
 .show {
   display:block;
 }
+
+
+
+.border {
+  font-size: 30px;
+  text-align: center;
+  border: red 2px solid;
+}
