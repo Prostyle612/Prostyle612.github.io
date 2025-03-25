@@ -140,6 +140,10 @@ ul.main-menu li a.active {
   display:block;
 }
 
+.image-spacing {
+    margin-right: 10px; /* Adjust the space as needed */
+}
+
 .border {
   margin-bottom: 15px;
   padding: 10px;
